@@ -1,0 +1,21 @@
+
+***VERIFICAR DOCUMENTAÇÂO IONIC E RODAR COMANDOS ENABLE CAPACITOR PARA PROJETO JÁ EXISTENTE.
+
+
+ npm install cordova-plugin-network-information 
+$ npm install @awesome-cordova-plugins/network 
+$ ionic cap sync
+
+ionic cap sync
+
+ionic cap run android
+
+
+ou 
+
+
+1º   npm run build
+
+       // npx cap sync android
+
+2º   npx cap run android
